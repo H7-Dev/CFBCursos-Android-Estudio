@@ -6,7 +6,7 @@
 
 ## Aula 01 - Instalação e Configuração do Android Studio [Curso de Android Studio] 
 
-## Documentação de cores
+### **Tópicos Do Vídeo**
 
 | Titulo                             | Momento                                                                                       |
 | ---------------------------------- | :-------------------------------------------------------------------------------------------: |
