@@ -23,6 +23,26 @@
  - [Instalação e Configuração do Android Studio [Curso de Android Studio] - Aula 01](https://youtu.be/OGoB-Np2kmg?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73)
 
 
+## Aula 02 - Criando uma tela simples e rodando o APP no AVD [Curso de Android Studio] 
 
+### **Tópicos Do Vídeo**
 
+| Titulo                             | Momento                                                                                       |
+| ---------------------------------- | :-------------------------------------------------------------------------------------------: |
+| ⚠️ AVD Manager                     | [02:41](https://youtu.be/TsxAI91RAkg?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=161)           |
+| Janela Attibutes                   | [06:05](https://youtu.be/TsxAI91RAkg?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=365)           |
+| ⚠️ erro #L-001                     | [11:25](https://youtu.be/TsxAI91RAkg?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=685)           |
+| Design Split e code                | [13:10](https://youtu.be/TsxAI91RAkg?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=789)           |
+| Xml da aplicação                   | [13:49](https://youtu.be/TsxAI91RAkg?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=829)           |
+| Design and Blueprint               | [16:05](https://youtu.be/TsxAI91RAkg?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=965)           |
+|                                    | []()           |
 
+Legendas
+====
+* Erros do tipo: ⚠️ erro #L-??? são erros de leiaute da aplicação
+
+## Referência
+
+ - [Criando uma tela simples e rodando o APP no AVD [Curso de Android Studio] - Aula 02](https://youtu.be/TsxAI91RAkg?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73)
+
+ 
