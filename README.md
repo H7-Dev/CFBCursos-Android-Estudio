@@ -61,13 +61,6 @@ Legendas
 |  arquivo `strings.x.xml`                             | [10:30](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=630)           |
 |  fazer referência de um string from Attibutes        | [12:47](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=757)           |
 |  arquivo `colors.x.xml`                              | [14:30](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=870)           |
-|                                                      | []()           |
-|                                                      | []()           |
-|                                                      | []()           |
-|                                                      | []()           |
-
-
-
 
 
 
@@ -77,8 +70,26 @@ Legendas
 
 | Titulo                                               | Momento                                                                                       |
 | ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
-| Declarar variaveis                                   | [08:49 - 11:40](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=529)   |
+| declarar variaveis                                   | [08:49 - 11:40](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=529)   |
 | setOnClickListener                                   | [11:45 - 13:04](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=705)   |
 | ⚠️ erro #B-001                                       | [12:55 - 13:24](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=775)   |
 | setText & getText                                    | [13:35](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=816)           |
 |                                                      | []()           |
+
+
+## Aula 05 - Calculadora simples [Curso de Android Studio]
+
+### **Tópicos Do Vídeo**
+
+| Titulo                                               | Momento                                                                                       |
+| ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
+| inputType                                            | [09:10](https://youtu.be/hUfRPjNy1wM?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=550)           |
+| declarar as variaveis para os botões                 | [10:44](https://youtu.be/hUfRPjNy1wM?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=644)           |
+| Variáveis de operações (atribuidas ao elementos)     | [13:24](https://youtu.be/hUfRPjNy1wM?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=804)           |
+| parseDouble                                          | [14:00](https://youtu.be/hUfRPjNy1wM?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=840)           |
+| ⚠️ erro #B-002                                       | [14:41 - 14:56](https://youtu.be/hUfRPjNy1wM?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=881)   |
+| btn_somar já pronto                                  | [~15:44](https://youtu.be/hUfRPjNy1wM?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=944)          |
+| outras operações                                     | [15:52 - 16:22]()   |
+|                                                      | []()   |
+|                                                      | []()   |
+|                                                      | []()   |
