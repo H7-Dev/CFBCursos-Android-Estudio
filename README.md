@@ -118,3 +118,11 @@ Legendas
 | ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
 |  isChecked()                                         | [11:00](https://youtu.be/L5bVPhq3xk4?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=660)           |
 
+
+## Aula 09 -  Notificações Toast [Curso de Android Studio]
+
+## Referência
+
+ - [Notificações Toast](https://youtu.be/kTUzBYVD2T4?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73)
+
+ 
