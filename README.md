@@ -74,7 +74,6 @@ Legendas
 | setOnClickListener                                   | [11:45 - 13:04](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=705)   |
 | ⚠️ erro #B-001                                       | [12:55 - 13:24](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=775)   |
 | setText & getText                                    | [13:35](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=816)           |
-|                                                      | []()           |
 
 
 ## Aula 05 - Calculadora simples [Curso de Android Studio]
@@ -90,6 +89,17 @@ Legendas
 | ⚠️ erro #B-002                                       | [14:41 - 14:56](https://youtu.be/hUfRPjNy1wM?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=881)   |
 | btn_somar já pronto                                  | [~15:44](https://youtu.be/hUfRPjNy1wM?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=944)          |
 | outras operações                                     | [15:52 - 16:22]()   |
-|                                                      | []()   |
-|                                                      | []()   |
-|                                                      | []()   |
+
+
+## Aula 06 - Mais sobre eventos de clique nos botões [Curso de Android Studio] 
+
+### **Tópicos Do Vídeo**
+
+| Titulo                                               | Momento                                                                                       |
+| ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
+| Evento clique + método                               | [03:50](https://youtu.be/AhtoS9PjXPQ?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=233)           |
+| ⚠️ erro #B-003                                       | [07:18 - 08:35](https://youtu.be/AhtoS9PjXPQ?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=438)   |
+| Associar o onClick do Button ao método criado        | [09:02](https://youtu.be/AhtoS9PjXPQ?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=542)           |
+
+
+<!-- |                                                      | []()           | -->
