@@ -46,3 +46,22 @@ Legendas
  - [Criando uma tela simples e rodando o APP no AVD [Curso de Android Studio] - Aula 02](https://youtu.be/TsxAI91RAkg?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73)
 
  
+
+## Aula 03 - Operações básicas de programação no Android Studio [Curso de Android Studio]
+
+### **Tópicos Do Vídeo**
+
+| Titulo                                               | Momento                                                                                       |
+| ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
+|  MainActivity.java Conceito Básico                   | [02:39](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=159)           |
+|  @Override declaração                                | [03:41](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=221)           |
+|  setContentView                                      | [05:10](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=310)           |
+|  pasta `RES`                                         | [10:05](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=605)           |
+|  pasta `VELUES`                                      | [10:20](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=620)           |
+|  arquivo `strings.x.xml`                             | [10:30](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=630)           |
+|  fazer referência de um string from Attibutes        | [12:47](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=757)           |
+|  arquivo `colors.x.xml`                              | [14:30](https://youtu.be/hQ21ZITjEz0?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=870)           |
+|                                                      | []()           |
+|                                                      | []()           |
+|                                                      | []()           |
+|                                                      | []()           |
