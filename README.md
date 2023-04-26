@@ -65,3 +65,20 @@ Legendas
 |                                                      | []()           |
 |                                                      | []()           |
 |                                                      | []()           |
+
+
+
+
+
+
+## Aula 04 - Mais configurações, cores, evento de click do botão - forma 1 [Curso de Android Studio] 
+
+### **Tópicos Do Vídeo**
+
+| Titulo                                               | Momento                                                                                       |
+| ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
+| Declarar variaveis                                   | [08:49 - 11:40](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=529)   |
+| setOnClickListener                                   | [11:45 - 13:04](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=705)   |
+| ⚠️ erro #B-001                                       | [12:55 - 13:24](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=775)   |
+| setText & getText                                    | [13:35](https://youtu.be/bQdIoxaGIuw?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=816)           |
+|                                                      | []()           |
