@@ -108,3 +108,13 @@ Legendas
 | Titulo                                               | Momento                                                                                       |
 | ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
 |  método opera()                                      | [03:09](https://youtu.be/R--Ul2k_cqE?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=189)           |
+
+
+## Aula 08 - Usando valores da tela no código [Curso de Android Studio]
+
+### **Tópicos Do Vídeo**
+
+| Titulo                                               | Momento                                                                                       |
+| ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
+|  isChecked()                                         | [11:00](https://youtu.be/L5bVPhq3xk4?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=660)           |
+
