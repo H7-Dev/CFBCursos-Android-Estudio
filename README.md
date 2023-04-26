@@ -101,5 +101,10 @@ Legendas
 | ⚠️ erro #B-003                                       | [07:18 - 08:35](https://youtu.be/AhtoS9PjXPQ?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=438)   |
 | Associar o onClick do Button ao método criado        | [09:02](https://youtu.be/AhtoS9PjXPQ?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=542)           |
 
+## Aula 07 - Mais sobre eventos de clique nos botões - #P2 [Curso de Android Studio]
 
-<!-- |                                                      | []()           | -->
+### **Tópicos Do Vídeo**
+
+| Titulo                                               | Momento                                                                                       |
+| ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
+|  método opera()                                      | [03:09](https://youtu.be/R--Ul2k_cqE?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=189)           |
