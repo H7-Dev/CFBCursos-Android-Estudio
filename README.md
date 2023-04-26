@@ -125,4 +125,9 @@ Legendas
 
  - [Notificações Toast](https://youtu.be/kTUzBYVD2T4?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73)
 
- 
+## Aula 10 Caixas de Mensagens - AlertDialog [Curso de Android Studio]
+
+## Referência
+
+ - [AlertDialog ](https://youtu.be/6Md23mi_e6Y?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73)
+
