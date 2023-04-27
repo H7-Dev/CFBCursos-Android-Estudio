@@ -165,6 +165,11 @@ Legendas
 <!-- |                                                      | []()    | -->
 
 
+## Aula 14 - Programando o Menu de Opções no Android Studio [Curso de Android Studio]
+
+## Referência
+
+ - [Menu de Opções no Android](https://youtu.be/THjsnQp770c?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73)
 
 
 
