@@ -131,3 +131,18 @@ Legendas
 
  - [AlertDialog ](https://youtu.be/6Md23mi_e6Y?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73)
 
+## Aula 11 - Abrindo novas telas [Curso de Android Studio] 
+
+### **Tópicos Do Vídeo**
+
+| Titulo                                               | Momento                                                                                       |
+| ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
+| Nova activity                                        | [00:55 - 02:44](https://youtu.be/iR4cK9UDTdA?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=55)    |
+| Método para Abrir um nova activity from button       | [06:04 - 07:15](https://youtu.be/iR4cK9UDTdA?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=364)    |
+
+
+
+
+
+<!-- |                                                      | []()    | -->
+
