@@ -141,6 +141,30 @@ Legendas
 | Método para Abrir um nova activity from button       | [06:04 - 07:15](https://youtu.be/iR4cK9UDTdA?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=364)    |
 
 
+## Aula 12 - Criando Intents para abrir novas telas - #P2 [Curso de Android Studio]
+
+### **Tópicos Do Vídeo**
+
+| Titulo                                               | Momento                                                                                       |
+| ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
+|  setContentView                                      | [03:19 - 05:10](https://youtu.be/arAZ6hLKlKQ?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=199)   |
+|  Intent Voltar                                       | [08:31](https://youtu.be/arAZ6hLKlKQ?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=510)    |
+|                                                      | []()    |
+
+
+## Aula 13 - Passando parâmetros entre telas no Android Studio - #P3 [Curso de Android Studio]
+
+### **Tópicos Do Vídeo**
+
+| Titulo                                               | Momento                                                                                       |
+| ---------------------------------------------------- | :-------------------------------------------------------------------------------------------: |
+| Passagem de Parâmetros entre telas                   | [01:50 - 08:19]()    |
+| Processo correto de voltar para a activity anterior  | [08:21](https://youtu.be/UhEIXr6IT1A?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73&t=501)    |
+|                                                      | []()    |
+<!-- |                                                      | []()    | -->
+<!-- |                                                      | []()    | -->
+
+
 
 
 
